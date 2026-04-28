@@ -1,5 +1,9 @@
 # Catatan-Koding
-Catatan ini sebagai pengingat dimasa akan datang, Berisi catatan kesalahan kecil yang sering terjadi dalam ngoding wkkwkw
+
+Catatan ini sebagai pengingat di masa akan datang.
+Berisi hal-hal kecil, error sepele, dan kebiasaan yang sering terjadi saat ngoding (yang kadang bikin kesel sendiri 😅).
+
+---
 
 ## Try Catch Probs
 
